@@ -1,0 +1,9 @@
+{
+  "name": "Your GitHub Gists",
+  "description": "A list of your GitHub Gists",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
